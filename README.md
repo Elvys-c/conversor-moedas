@@ -1,2 +1,2 @@
 # conversor-moedas
-app desenvolvido durante o curso de flutter
+app desenvolvido durante o curso de flutter!
